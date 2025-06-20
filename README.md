@@ -35,22 +35,6 @@ The data includes order-level transaction details such as:
 ### Regional Revenue Performance
 ![Regional Revenue](images/regional_revenue.png)
 
-## Folder Structure
-```
-📁 data/
-    └── electronic_market_dataset.xlsx
-📁 notebooks/
-    └── Electronic_Market_Analysis_FINAL_CLEAN_WITH_LIMITATIONS.ipynb
-📁 sql/
-    └── electronic_market_analysis_enhanced.sql
-📁 app/
-    └── electronic_market_dashboard_app.py
-📁 images/
-    └── dashboard visuals
-📁 docs/
-    └── Electronic Market Summary.docx
-```
-
 ## How to Run This Project
 
 1. Clone this repository.
@@ -75,7 +59,7 @@ streamlit run app/electronic_market_dashboard_app.py
 - Shipping times are stable; maintaining logistics efficiency is key.
 
 
-## 📈 Hypothetical Business Impact Scenarios
+## Hypothetical Business Impact Scenarios
 
 These are estimated business benefits based on data patterns and scenario modeling:
 
@@ -105,6 +89,3 @@ These calculations are based on simple, scalable assumptions. They help prioriti
 - No demographic or campaign-level marketing data available.
 - Revenue calculations do not account for discounts or taxes.
 
----
-
-> This project simulates the responsibilities of a real-world data analyst, blending data engineering, exploratory analysis, visualization, and executive storytelling.
